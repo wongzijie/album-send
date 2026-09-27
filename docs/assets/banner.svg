@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">相册快送 Album Send</title><desc id="desc">一键把你的相册发送到 NAS 或共享文件夹：选择、发送、保存原片。</desc>
+<rect width="1200" height="360" rx="24" fill="#eff5ef"/>
+<circle cx="1070" cy="0" r="240" fill="#dceadd"/>
+<g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans CJK SC',sans-serif">
+<text x="64" y="78" font-size="17" font-weight="600" fill="#176b55" letter-spacing="3">ALBUM SEND / ANDROID</text>
+<text x="60" y="159" font-size="64" font-weight="700" fill="#19392d">相册快送</text>
+<text x="64" y="205" font-size="24" fill="#486352">一键把你的相册发送到 NAS / 共享文件夹</text>
+<rect x="64" y="260" width="110" height="38" rx="19" fill="#176b55"/>
+<text x="119" y="285" text-anchor="middle" font-size="15" fill="#fff">保留原片</text>
+<text x="196" y="285" font-size="16" fill="#486352">你的手机 → 你的存储</text>
+</g>
+<rect x="803" y="95" width="105" height="165" rx="19" fill="#fff" stroke="#176b55" stroke-width="5"/>
+<rect x="818" y="126" width="32" height="32" rx="5" fill="#d7e6d5"/><rect x="861" y="126" width="32" height="32" rx="5" fill="#a9c4a6"/>
+<rect x="818" y="169" width="32" height="32" rx="5" fill="#b5cfb2"/><rect x="861" y="169" width="32" height="32" rx="5" fill="#d7e6d5"/>
+<path d="M937 177h61m-17 -17l18 17 -18 17" fill="none" stroke="#176b55" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="1031" y="128" width="111" height="109" rx="14" fill="#19392d"/>
+<rect x="1048" y="146" width="76" height="15" rx="5" fill="#759781"/><rect x="1048" y="174" width="76" height="15" rx="5" fill="#759781"/>
+<circle cx="1111" cy="215" r="5" fill="#c6e9a8"/>
+</svg>

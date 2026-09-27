@@ -1,0 +1,55 @@
+# Runtime dependencies
+
+Resolved from `debugRuntimeClasspath` for version 0.1.0.
+
+- `androidx.activity:activity:1.2.4`
+- `androidx.annotation:annotation:1.8.1`
+- `androidx.annotation:annotation-experimental:1.4.0`
+- `androidx.annotation:annotation-jvm:1.8.1`
+- `androidx.arch.core:core-common:2.2.0`
+- `androidx.arch.core:core-runtime:2.2.0`
+- `androidx.collection:collection:1.4.2`
+- `androidx.collection:collection-jvm:1.4.2`
+- `androidx.concurrent:concurrent-futures:1.1.0`
+- `androidx.core:core:1.13.0`
+- `androidx.core:core-ktx:1.13.0`
+- `androidx.customview:customview:1.0.0`
+- `androidx.customview:customview-poolingcontainer:1.0.0`
+- `androidx.exifinterface:exifinterface:1.3.6`
+- `androidx.fragment:fragment:1.3.6`
+- `androidx.interpolator:interpolator:1.0.0`
+- `androidx.lifecycle:lifecycle-common:2.6.2`
+- `androidx.lifecycle:lifecycle-livedata:2.6.2`
+- `androidx.lifecycle:lifecycle-livedata-core:2.6.2`
+- `androidx.lifecycle:lifecycle-runtime:2.6.2`
+- `androidx.lifecycle:lifecycle-viewmodel:2.6.2`
+- `androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2`
+- `androidx.loader:loader:1.0.0`
+- `androidx.profileinstaller:profileinstaller:1.3.1`
+- `androidx.recyclerview:recyclerview:1.4.0`
+- `androidx.savedstate:savedstate:1.2.1`
+- `androidx.startup:startup-runtime:1.1.1`
+- `androidx.tracing:tracing:1.0.0`
+- `androidx.vectordrawable:vectordrawable:1.1.0`
+- `androidx.vectordrawable:vectordrawable-animated:1.1.0`
+- `androidx.versionedparcelable:versionedparcelable:1.1.1`
+- `androidx.viewpager:viewpager:1.0.0`
+- `com.github.bumptech.glide:annotations:4.16.0`
+- `com.github.bumptech.glide:disklrucache:4.16.0`
+- `com.github.bumptech.glide:gifdecoder:4.16.0`
+- `com.github.bumptech.glide:glide:4.16.0`
+- `com.google.guava:listenablefuture:1.0`
+- `eu.agno3.jcifs:jcifs-ng:2.1.10`
+- `org.bouncycastle:bcprov-jdk18on:1.76`
+- `org.jetbrains:annotations:13.0`
+- `org.jetbrains.kotlin:kotlin-bom:1.9.24`
+- `org.jetbrains.kotlin:kotlin-stdlib:1.9.24`
+- `org.jetbrains.kotlin:kotlin-stdlib-common:1.9.24`
+- `org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.9.24`
+- `org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.9.24`
+- `org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.4`
+- `org.jetbrains.kotlinx:kotlinx-coroutines-bom:1.6.4`
+- `org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.4`
+- `org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.6.4`
+- `org.slf4j:slf4j-api:1.7.36`
+- `org.slf4j:slf4j-nop:1.7.36`

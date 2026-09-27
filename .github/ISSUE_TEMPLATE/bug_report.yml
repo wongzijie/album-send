@@ -1,0 +1,46 @@
+name: 问题 / 兼容性反馈
+description: 报告相册选择、目录浏览或发送问题
+title: "[问题] "
+body:
+  - type: markdown
+    attributes:
+      value: "请勿上传账号、密码、私密媒体或完整网络配置。"
+  - type: input
+    id: device
+    attributes:
+      label: 手机型号和 Android 版本
+      placeholder: "例如：Pixel 8，Android 15"
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: 应用版本
+      placeholder: "例如：0.1.0 preview"
+    validations:
+      required: true
+  - type: input
+    id: server
+    attributes:
+      label: 共享设备和系统版本
+      placeholder: "例如：Windows 11 / NAS 型号及系统版本，无需填写 IP"
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 复现步骤
+      description: 从打开应用开始，说明在哪一步遇到问题。
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: 预期结果与实际结果
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 补充信息
+      description: 可附脱敏错误提示；如已尝试其他 SMB 客户端，也可说明结果。
