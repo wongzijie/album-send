@@ -1,4 +1,6 @@
-<p align="center"><img src="docs/assets/banner.svg" alt="相册快送：选择相册，发送原片，保存到你的 NAS" width="100%"></p>
+![相册快送：Android原片发送至SMB，v0.1.0早期预览](docs/assets/showcase/cover.png)
+
+
 
 # 相册快送 · Album Send
 
@@ -42,6 +44,14 @@
 3. 首次运行时授予照片和视频权限。选择全部内容后，后续打开会沿用授权；只授权部分照片时，应用只显示允许访问的内容。
 
 需要 **Android 8.0 或以上**，手机与 NAS / 电脑应能在同一本地网络互通。共享端需要启用 SMB，并让使用的账号具有目标文件夹的写入权限。
+
+## 传输图解：什么时候才算一个文件完成？
+
+![传输图解：什么时候才算一个文件完成？，流程示意而非运行截图](docs/assets/showcase/workflow.png)
+
+先写临时文件，关闭流并检查远端大小，再重命名为正式文件。示意图不是手机实机截图；大小检查不等于整文件哈希，仍需真机和NAS兼容性验证。
+
+[查看全部图片与来源](docs/assets/showcase/README.md)
 
 ## 三步发送
 
@@ -91,3 +101,7 @@ GitHub Actions 同时运行构建、静态检查及本机 SMB 集成测试。已
 ## 许可
 
 应用自身代码使用 [MIT License](LICENSE)。第三方依赖保留各自许可证，见 [第三方说明](THIRD_PARTY_NOTICES.md)。
+
+## 更多项目
+
+[A800 动量回测](https://github.com/wongzijie/stock_database) · [OpenClaw 编排经验](https://github.com/wongzijie/OpenClaw-Experience) · [Spark Memory 设计](https://github.com/wongzijie/spark-memory) · [Snapshot 截图工具](https://github.com/wongzijie/Snapshot) · [Buffett Archive 本地检索](https://github.com/wongzijie/buffett-archive)

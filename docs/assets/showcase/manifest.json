@@ -1,0 +1,30 @@
+{
+  "project": "album-send",
+  "source_revision": "4f95904b40ed4ecc5715b19272fbd267bffec282",
+  "generated_date": "2026-10-26",
+  "status": "ANDROID / v0.1.0 EARLY PREVIEW",
+  "source_files": [
+    "README.md",
+    "docs/DEVELOPMENT.md",
+    "docs/ROADMAP.md"
+  ],
+  "images": [
+    {
+      "path": "cover.png",
+      "bytes": 52939,
+      "sha256": "a31608501730e0ff80f96c02065d6b1a0b28224b19cc2e2cb6eeb5b8de31c020"
+    },
+    {
+      "path": "workflow.png",
+      "bytes": 77929,
+      "sha256": "65abd6dde6099284786a3a4835303781774795ee870b5d5145c0e644dfc4fa71"
+    },
+    {
+      "path": "social-preview.png",
+      "bytes": 52939,
+      "sha256": "a31608501730e0ff80f96c02065d6b1a0b28224b19cc2e2cb6eeb5b8de31c020"
+    }
+  ],
+  "verification_scope": "Source/README review and visual inspection; application runtime not retested",
+  "illustration_notice": "Workflow illustration, not an application screenshot"
+}

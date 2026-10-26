@@ -1,5 +1,7 @@
 # Album Send · 相册快送
 
+![Album Send project overview](docs/assets/showcase/cover.png)
+
 **Send your phone's photos and videos to a NAS or shared folder with one tap.**
 
 Select your media, choose a folder on your local SMB server, and send the original files. No account registration, no image compression, and no third-party cloud service.
@@ -46,3 +48,9 @@ Java 17, Gradle 9.2.1, AGP 9.0.1, compile SDK 36, target SDK 35, min SDK 26.
 See [development notes](docs/DEVELOPMENT.md), [roadmap](docs/ROADMAP.md), and [contribution guide](CONTRIBUTING.md). Please do not include credentials or private media in public issues.
 
 The application code is MIT-licensed. Third-party libraries retain their own licenses; see [notices](THIRD_PARTY_NOTICES.md).
+
+## Visual guide
+
+![Source-backed workflow illustration, not a runtime screenshot](docs/assets/showcase/workflow.png)
+
+[Image gallery and evidence](docs/assets/showcase/README.md). This documentation update does not revalidate the application runtime.
